@@ -7,6 +7,4 @@ This is a temporary script file.
 
 print("Hi everyone!")
 
-
-
-print("just doing a test")
+50 + 8 
