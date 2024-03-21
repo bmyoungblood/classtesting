@@ -9,4 +9,6 @@ print("Hi everyone!")
 
 50 + 8 
 
-print("Welcome to DAP I - Python")
+print("Welcome to Data and Programming I - Python")
+
+print("dont worry, you'll understand everything soon!")
